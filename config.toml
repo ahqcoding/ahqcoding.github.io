@@ -1,0 +1,4 @@
+baseURL = "http://ahqcoding.github.io/"
+languageCode = "en-us"
+title = "Brain Dump"
+theme = "anubis"
