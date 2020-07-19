@@ -1,4 +1,4 @@
-baseURL = "http://ahqcoding.github.io/"
+baseURL = "https://ahqcoding.github.io/"
 languageCode = "en-us"
 title = "Brain Dump"
 theme = "anubis"
